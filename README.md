@@ -243,3 +243,4 @@ ResultsAnalyzer.save_search_results(nsga, pareto, 'results.json')
 ---
 
 **Happy Architecture Searching! 🚀**
+# Evo-NAS

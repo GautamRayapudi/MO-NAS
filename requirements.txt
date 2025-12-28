@@ -1,0 +1,10 @@
+# NSGA-Net: Neural Architecture Search Dependencies
+
+# Core
+numpy>=1.20.0
+
+# Deep Learning (PyTorch)
+torch>=2.0.0
+
+# Optional: for enhanced features
+# scikit-learn>=1.0.0  # For Gaussian Process surrogate model
