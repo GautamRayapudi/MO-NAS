@@ -1,4 +1,4 @@
-# NSGA-Net: Multi-Objective Neural Architecture Search
+# MO-NAS: Multi-Objective Neural Architecture Search
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/pytorch-2.0+-orange.svg)](https://pytorch.org/)
@@ -210,7 +210,7 @@ SearchConfig(
 ## 📁 Project Structure
 
 ```
-Evo-NAS/
+MO-NAS/
 ├── nsga_net/                    # Main package
 │   ├── __init__.py             # Public API
 │   ├── core/                    # Core components
@@ -243,4 +243,3 @@ ResultsAnalyzer.save_search_results(nsga, pareto, 'results.json')
 ---
 
 **Happy Architecture Searching! 🚀**
-# Evo-NAS
